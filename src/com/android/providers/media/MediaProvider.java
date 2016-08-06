@@ -530,6 +530,7 @@ public class MediaProvider extends ContentProvider {
         Environment.DIRECTORY_MOVIES,
         Environment.DIRECTORY_DOWNLOADS,
         Environment.DIRECTORY_DCIM,
+        "Logger",
     };
 
     // creates default folders (Music, Downloads, etc)
